@@ -24,6 +24,17 @@
 	</AutoSplitter>
 	<AutoSplitter>
 	<Games>
+		<Game>Call of Duty 2</Game>
+	</Games>
+	<URLs>
+		<URL>https://raw.githubusercontent.com/KunoDemetries/cod4/master/COD2AS.asl</URL>
+	</URLs>
+	<Type>Script</Type>
+	<Description>Autosplitter/loadremover (by KunoDemetries) </Description>
+	<Website>https://discordapp.com/invite/hn7jqXy</Website>
+	</AutoSplitter>
+	<AutoSplitter>
+	<Games>
 		<Game>Tetris (NES)</Game>
 	</Games>
 	<URLs>
